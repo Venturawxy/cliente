@@ -23,7 +23,7 @@ header {
 }
 
 .logo-container h1 {
-  color: #0056b3;
+  color: #0b2f55;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
 }
@@ -102,7 +102,7 @@ footer {
   padding: 10px 20px;
   align-items: center;
   font-size: 14px;
-  margin-top: 110px;
+  margin-top: 105px;
 }
 
 .whatsapp,
@@ -116,4 +116,9 @@ footer {
 .app img {
   width: 20px;
   height: 20px;
+}
+
+.login a {
+  text-decoration: none;
+  color: inherit;
 }

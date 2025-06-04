@@ -56,3 +56,8 @@ button {
 button:hover {
     background-color: #1267b8;
 }
+
+.login a {
+  text-decoration: none;
+  color: inherit;
+}
